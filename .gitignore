@@ -1,0 +1,25 @@
+# Python files to ignore
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.pytest_cache/
+**/venv/
+**/env/
+**/.env
+
+# Local upload files
+**/uploads/
+**/static/uploads/
+
+# Next.js files to ignore
+**/node_modules/
+**/.next/
+**/out/
+**/build/
+**/.DS_Store
+**/*.log
+
+# Local workspace settings
+**/.vscode/
+**/.idea/
